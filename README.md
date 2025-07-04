@@ -34,4 +34,8 @@ npm run dev
 
 ## 🌍 Live Demo
 
-(Deploy on Vercel or Netlify and paste link here)
+
+
+https://github.com/user-attachments/assets/65cba1b4-b28f-46cd-af56-92c9eed776c0
+
+
