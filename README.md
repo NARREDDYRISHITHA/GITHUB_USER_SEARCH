@@ -24,8 +24,11 @@ npm install
 npm run dev
 ```
 ## Screenshots
-![1](src/public/Screenshot1.png)
-![2](src/public/Screenshot2.png)
+![1](public/Screenshot 2025-07-04 122343.png)
+![2](public/Screenshot 2025-07-04 122355.png)
+![3](public/Screenshot 2025-07-04 122422.png)
+![4](public/Screenshot 2025-07-04 122439.png)
+![2](public/Screenshot 2025-07-04 122451.png)
 
 
 
