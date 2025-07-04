@@ -23,7 +23,7 @@ A responsive React app to search GitHub users and display profile + top reposito
 npm install
 npm run dev
 ```
-## Screenshots[
+## Screenshots
 <img src="https://github.com/user-attachments/assets/8750bdde-4a67-4529-bfa8-d2da5ab5030b" alt="Image 1" width="400"/>
 <img src="https://github.com/user-attachments/assets/559cb256-40ed-4745-9caf-31e7d0b02f1a" alt="Image 2" width="400"/>
 <img src="https://github.com/user-attachments/assets/16ac0d30-62d9-4e09-8ace-39e3f801adc4" alt="Image 3" width="400"/>
