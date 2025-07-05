@@ -8,7 +8,6 @@ A responsive React app to search GitHub users and display profile + top reposito
 - View public profile info (name, avatar, followers, etc.)
 - Top 5 repositories sorted by stars
 - Dark mode toggle
-- Mobile-first responsive design
 - Loading and error states
 
 ## 🛠 Tech Stack
